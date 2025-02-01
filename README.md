@@ -1,4 +1,4 @@
-![logo](https://github.com/krrahul24/krrahul24/blob/main/image.jpg)
+![logo](https://github.com/suchittiwari/Suchit-tiwari/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Suchit Tiwari</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
